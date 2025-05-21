@@ -452,7 +452,7 @@ p{
   }
 }
 
-@media (max-width:375px){
+@media (max-width:400px){
  .home-pg,.section,.section2,.section3,.section4,.footer,.clients{
   display: none;
  }
