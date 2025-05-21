@@ -446,7 +446,7 @@ p{
   margin-top: 8rem
 
 }
-@media (min-width:376px){
+@media (min-width:500px){
   #company,#section1,.our-service-mobile,.scent-hygiene-mobile,.get-in-touch-mobile,#clients,#section4,#footer{
     display: none;
   }
