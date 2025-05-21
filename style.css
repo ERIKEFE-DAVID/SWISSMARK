@@ -7,7 +7,7 @@ body{
     background-color: white;
 }
 .home-pg{
-    background-image: url('/images/S3B-min\ 1-swiss.png');
+    background-image: url('S3B-min\ 1-swiss.png');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
@@ -344,7 +344,7 @@ p{
   color: white;
  }
  .footer{
-    background-image: url('/images/footer\ img-swiss.png');
+    background-image: url('footer\ img-swiss.png');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
@@ -466,7 +466,7 @@ body{
 }
 
  #company{
-     background-image: url('/images/homepage-swiss-mobile.png');
+     background-image: url('homepage-swiss-mobile.png');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
@@ -797,7 +797,7 @@ input{
  #footer{
   margin-top: 3rem;
   padding-top: 3rem;
-  background-image: url('/images/footer\ img-mobile-swiss.png');
+  background-image: url('footer\ img-mobile-swiss.png');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
