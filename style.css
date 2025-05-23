@@ -1215,7 +1215,7 @@ body{
 .who-we-are{
   position: absolute;
   background-color:white;
-  bottom: -22rem;
+  bottom: -27rem;
   width: 70%;
   margin-left: 5.5rem;
     box-shadow: 2px 2px 8px rgb(111, 107, 107) ;
@@ -1234,6 +1234,7 @@ body{
 .our-service-mobile h1{
   margin-bottom: 1rem;
   font-size: 24px;
+  font-weight:600;
 }
 .our-service-mobile p{
   width:60%;
@@ -1254,7 +1255,7 @@ body{
   .scenting-mobile img{
     width: 200px;
     margin-bottom: 1rem;
-    margin-left: 1.5rem;
+    margin-left: 1.3rem;
     margin-top: 1rem;
   }
   .scenting-mobile{
@@ -1288,7 +1289,7 @@ body{
 }
   .hygiene-mobile img{
     width: 200px;
-    margin-left: 0.4rem;
+    margin-left: 0.3rem;
     margin-bottom: 1rem;
   }
 
