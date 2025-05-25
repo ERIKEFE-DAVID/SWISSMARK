@@ -499,8 +499,7 @@ p{
     width:fit-content;
   }
     #home-pg{
-        height:fit-content;
-        padding-bottom:3rem;
+        height:100vh;
     }
   
    *{
