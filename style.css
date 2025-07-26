@@ -386,10 +386,11 @@ p{
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
-    height: 80vh; 
+    height:fit-content; 
     width: 100%;
     color: white;
     padding-top: 5rem;
+    padding-bottom:10rem;
     display: flex;
     justify-content: space-around;
  }
